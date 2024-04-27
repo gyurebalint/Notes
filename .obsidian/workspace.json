@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latin/02 - First declension nouns.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latin/02 - First declension nouns.md",
+                "file": "Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latin/02 - First declension nouns.md",
+                "file": "Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latin/02 - First declension nouns.md"
+                "file": "Math.md"
               }
             }
           },
@@ -168,25 +168,25 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
-    "Latin/01 - First conjugation verbs.md",
     "Stoics.md",
+    "Software/Authentication.md",
+    "Software/DOT NET Memory Alloc.md",
+    "Software/Golang.md",
+    "Software/Rust.md",
+    "Software/Review.md",
+    "_keys.md",
+    "Software/Linode.md",
+    "Latin/02 - First declension nouns.md",
+    "Latin/01 - First conjugation verbs.md",
     "Untitled.md",
     "Math.md",
     "Hannibal's Recipes.md",
     "Finance.md",
     "Crypto.md",
-    "_keys.md",
     "_keys_backup.md",
     "Templates",
     "Notes",
-    "Software/Rust.md",
-    "Software/Golang.md",
-    "Software/Linode.md",
-    "Software/DOT NET Memory Alloc.md",
     "Latin/03 - Second declension nouns.md",
-    "Latin/02 - First declension nouns.md",
-    "Software/Review.md",
-    "Software/Authentication.md",
     "[Single.md",
     "[NEVER.md",
     "plan.md",
