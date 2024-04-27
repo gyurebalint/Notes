@@ -1,0 +1,5 @@
+### Westy
+"It was a privilege to work under [Boss's Name]. As a backend manager, [he/she] displayed exceptional competency and a strong focus on delivering results. [His/Her] leadership style allowed us to learn and grow in our roles, and [he/she] was always available to offer guidance and support. [Boss's Name] created a positive work environment that fostered collaboration and innovation, making it a joy to come to work each day. I highly recommend [him/her] as a boss and a leader in the industry."
+
+"I had the pleasure of working under [Boss's Name] and [he/she] truly made a positive impact on both my professional and personal growth. [His/Her] astute platform decisions and unwavering commitment to improvement not only helped the company thrive but also allowed us as individuals to reach our full potential. [Boss's Name] provided the support and resources necessary for us to succeed, and [he/she] encouraged an environment of learning and development. I am grateful for [his/her] leadership and highly recommend [him/her] for any organization looking for a competent, focused, and supportive boss."
+
