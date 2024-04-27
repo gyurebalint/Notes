@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Martin Shkreli/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Martin Shkreli/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Martin Shkreli/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Martin Shkreli/banking.md"
               }
             }
           },
@@ -168,6 +168,16 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Martin Shkreli/podcast.md",
+    "Martin Shkreli/Lesson 2.md",
+    "Martin Shkreli/Lesson 1.md",
+    "Martin Shkreli/banking.md",
+    "Martin Shkreli/podcast.txt",
+    "Martin Shkreli/Lesson 2.txt",
+    "Martin Shkreli/Lesson 1.txt",
+    "Martin Shkreli/banking.txt",
+    "Martin Shkreli",
     "Math.md",
     "Stoics.md",
     "Software/Authentication.md",
@@ -179,7 +189,6 @@
     "Software/Linode.md",
     "Latin/02 - First declension nouns.md",
     "Latin/01 - First conjugation verbs.md",
-    "Untitled.md",
     "Hannibal's Recipes.md",
     "Finance.md",
     "Crypto.md",
@@ -192,9 +201,6 @@
     "plan.md",
     "French.md",
     "Foreign words.md",
-    "Dumplings.md",
-    "Drawing.md",
-    "Dart flutter.md",
     "Pasted images/Pasted image 20221215103943.png",
     "Books/Metacognition inlanguage learning and teaching.pdf",
     "Books/FirstYearInLatin.pdf"
