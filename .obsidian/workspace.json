@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_keys_backup.md",
+                "file": "Finance.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_keys_backup.md",
+                "file": "Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_keys_backup.md",
+                "file": "Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_keys_backup.md"
+                "file": "Finance.md"
               }
             }
           },
@@ -168,11 +168,11 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "_keys_backup.md",
     "Notes",
     "_keys.md",
     "Crypto.md",
     "Untitled.md",
-    "_keys_backup.md",
     "Finance.md",
     "Hannibal's Recipes.md",
     "Stoics.md",

@@ -5,3 +5,5 @@ Currency bank notes or reserve notes which we know as dollars are issued by the 
 
 reserve ratio: reserve to demand deposits ratio cant go under 10%
 treasuries: government IOU. Risk free. Gov this way can borrow money from you and give you this IOU (treasury).
+
+this is a change
