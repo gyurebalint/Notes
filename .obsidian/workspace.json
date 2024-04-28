@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latin/01 - First conjugation verbs.md",
+                "file": "Martin Shkreli/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latin/01 - First conjugation verbs.md",
+                "file": "Martin Shkreli/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latin/01 - First conjugation verbs.md",
+                "file": "Martin Shkreli/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latin/01 - First conjugation verbs.md"
+                "file": "Martin Shkreli/banking.md"
               }
             }
           },
@@ -169,23 +169,23 @@
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
     "Martin Shkreli/podcast.md",
-    "Martin Shkreli/banking.md",
-    "Martin Shkreli/Lesson 2.md",
-    "Martin Shkreli/Lesson 1.md",
-    "Martin Shkreli",
-    "conflict-files-obsidian-git.md",
-    "Latin/01 - First conjugation verbs.md",
-    "Latin/02 - First declension nouns.md",
-    "Latin/03 - Second declension nouns.md",
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
-    "Software/Rust.md",
-    "_keys.md",
     "_keys_backup.md",
+    "_keys.md",
     "Crypto.md",
     "Finance.md",
     "Hannibal's Recipes.md",
+    "Martin Shkreli/banking.md",
+    "Martin Shkreli/Lesson 2.md",
+    "Martin Shkreli/Lesson 1.md",
+    "Latin/03 - Second declension nouns.md",
+    "Latin/02 - First declension nouns.md",
+    "Latin/01 - First conjugation verbs.md",
+    "Martin Shkreli",
+    "conflict-files-obsidian-git.md",
+    "Software/Rust.md",
     "Stoics.md",
     "Math.md",
     "Untitled.md",
