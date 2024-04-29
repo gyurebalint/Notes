@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Martin Shkreli/Lesson 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Martin Shkreli/Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Martin Shkreli/Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Martin Shkreli/banking.md"
+                "file": "Martin Shkreli/Lesson 1.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
     "Martin Shkreli/podcast.md",
+    "Martin Shkreli/banking.md",
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
@@ -177,7 +178,6 @@
     "Crypto.md",
     "Finance.md",
     "Hannibal's Recipes.md",
-    "Martin Shkreli/banking.md",
     "Martin Shkreli/Lesson 2.md",
     "Martin Shkreli/Lesson 1.md",
     "Latin/03 - Second declension nouns.md",
