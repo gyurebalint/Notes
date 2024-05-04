@@ -32,3 +32,5 @@ How do you increase the money supply? (increase/decrease)
 	- Now I don't have a treasury in my hand, I have a 100 dollar and I'll put that money into the bank.
 	- This increases the bank reserves which would mean that it can lend more money out increasing the overall money supply
 
+
+ expanding the money supply will have the effect of increasing the lending power of banks while reaching the target interest rate.
