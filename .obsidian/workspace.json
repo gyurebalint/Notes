@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "_keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "_keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "_keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/banking.md"
+                "file": "_keys.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
+    "Finance/banking.md",
     "_keys.md",
     "Untitled.md",
     "_keys_backup.md",
@@ -191,7 +192,6 @@
     "Hannibal's Recipes.md",
     "Math.md",
     "Stoics.md",
-    "Finance/banking.md",
     "Finance/Lesson 1.md",
     "Finance/podcast.md",
     "Finance/Lesson 2.md",
