@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "_keys_backup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc62505fe63e47d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Fleeting Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Untitled/Fleeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Untitled/Fleeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Martin Shkreli/banking.md"
+                "file": "Untitled/Fleeting Notes.md"
               }
             }
           },
@@ -166,29 +179,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64108ca9c45dbc99",
+  "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
-    "Crypto.md",
-    "Martin Shkreli/banking.md",
-    "Untitled.md",
+    "Untitled",
+    "_keys_backup.md",
+    "Untitled/Fleeting Notes.md",
     "Lakas.md",
     "Finance.md",
-    "Martin Shkreli/Lesson 1.md",
-    "Martin Shkreli/podcast.md",
-    "Martin Shkreli/Lesson 2.md",
+    "Crypto.md",
+    "Hannibal's Recipes.md",
+    "Math.md",
+    "Stoics.md",
+    "Finance/banking.md",
+    "Finance/Lesson 1.md",
+    "Finance/podcast.md",
+    "Finance/Lesson 2.md",
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
     "Software/Rust.md",
     "_keys.md",
-    "_keys_backup.md",
-    "Hannibal's Recipes.md",
-    "Math.md",
-    "Stoics.md",
     "Latin/03 - Second declension nouns.md",
     "Latin/02 - First declension nouns.md",
     "Latin/01 - First conjugation verbs.md",
-    "Martin Shkreli",
+    "Finance",
     "conflict-files-obsidian-git.md",
     "Software/Review.md",
     "Software/Linode.md",
@@ -196,7 +210,6 @@
     "Notes",
     "[Single.md",
     "[NEVER.md",
-    "plan.md",
     "Pasted images/Pasted image 20221215103943.png",
     "Books/Metacognition inlanguage learning and teaching.pdf",
     "Books/FirstYearInLatin.pdf"
