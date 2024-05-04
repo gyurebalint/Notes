@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "_keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "_keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "_keys.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e84cdf8eeb2b495",
+  "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
-    "_keys_backup.md",
     "Untitled.md",
+    "_keys_backup.md",
     "Untitled",
     "Lakas.md",
     "Finance.md",
