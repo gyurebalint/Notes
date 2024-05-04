@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Fleeting Notes.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Fleeting Notes.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Fleeting Notes.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Fleeting Notes.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc62505fe63e47d8",
+  "active": "7e84cdf8eeb2b495",
   "lastOpenFiles": [
     "_keys_backup.md",
-    "Untitled/Fleeting Notes.md",
+    "Untitled.md",
     "Untitled",
     "Lakas.md",
     "Finance.md",
