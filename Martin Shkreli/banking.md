@@ -4,6 +4,7 @@ bank:
 bank notes: an IOU that a bank gives out stating with it you can withdraw that money from that bank. The standardized version is a dollar.
 check: a valid IOU for requesting a deposit from one account to another in a bank
 fractional bank reserve: the ratio between the banks reserve to the loan it can lend out.
+reserve: A bank reserve is the banks cash/money set aside to satisfy the demand when needed. The reserve ratio defines how much money a bank has to keep to their demand accounts. The bank doesnt get any interest on their reserves, the central bank doesnt give interest on banks reserves. 
 leverage: how much assets do you control with a certain amount of equity. Assets / Equity
 If a bank gives out bad loans, than their assets amount decrease, their liabilities stay the stay, resulting in	negative leverage, negative equity. Meaning no amount of time (to wait for the loans to be payed back) is
 going to solve the problem. This is called INSOLVENCY.
@@ -32,5 +33,12 @@ How do you increase the money supply? (increase/decrease)
 	- Now I don't have a treasury in my hand, I have a 100 dollar and I'll put that money into the bank.
 	- This increases the bank reserves which would mean that it can lend more money out increasing the overall money supply
 
-
  expanding the money supply will have the effect of increasing the lending power of banks while reaching the target interest rate.
+
+Target rate: This is the rate the Fed wants banks to lend money to each other on a very short term basis overnight. The Fed doesn't set this rate, if it wants to increase the money supply which will increase the banks reserves so that the demand for the banks lending each other goes down therefore the interest rate for lending goes down. This is why its a target rate, it wants it to go down to that level.
+
+ Why make an interest a target price and not the money supply?
+ - it's easier to measure, no surveys not data collection, just the rate of lending's of the banks
+ Why not just keep the money supply at a constant rate, say 50% of the GDP? 
+ - it has to be elastic enough to serve the people with good projects (that benefit society) when they need that money
+

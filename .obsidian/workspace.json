@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Crypto.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martin Shkreli/banking.md",
+                "file": "Crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Martin Shkreli/banking.md"
+                "file": "Crypto.md"
               }
             }
           },
@@ -168,10 +168,10 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
-    "Finance.md",
+    "Martin Shkreli/banking.md",
     "Untitled.md",
     "Lakas.md",
-    "Martin Shkreli/banking.md",
+    "Finance.md",
     "Martin Shkreli/Lesson 1.md",
     "Martin Shkreli/podcast.md",
     "Martin Shkreli/Lesson 2.md",
