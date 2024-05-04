@@ -42,5 +42,3 @@ Target rate: This is the rate the Fed wants banks to lend money to each other on
  Why not just keep the money supply at a constant rate, say 50% of the GDP? 
  - it has to be elastic enough to serve the people with good projects (that benefit society) when they need that money
 
-
-

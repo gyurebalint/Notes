@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_keys.md",
+                "file": "Finance/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_keys.md",
+                "file": "Finance/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_keys.md",
+                "file": "Finance/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_keys.md"
+                "file": "Finance/banking.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
+    "_keys.md",
     "Untitled.md",
     "_keys_backup.md",
     "Untitled",
@@ -198,7 +199,6 @@
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
     "Software/Rust.md",
-    "_keys.md",
     "Latin/03 - Second declension nouns.md",
     "Latin/02 - First declension nouns.md",
     "Latin/01 - First conjugation verbs.md",
