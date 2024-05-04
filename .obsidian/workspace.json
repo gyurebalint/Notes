@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto.md",
+                "file": "Martin Shkreli/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto.md",
+                "file": "Martin Shkreli/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto.md",
+                "file": "Martin Shkreli/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto.md"
+                "file": "Martin Shkreli/banking.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Crypto.md",
     "Martin Shkreli/banking.md",
     "Untitled.md",
     "Lakas.md",
@@ -181,7 +182,6 @@
     "Software/Rust.md",
     "_keys.md",
     "_keys_backup.md",
-    "Crypto.md",
     "Hannibal's Recipes.md",
     "Math.md",
     "Stoics.md",
