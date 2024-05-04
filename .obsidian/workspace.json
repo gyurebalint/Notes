@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_keys.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_keys.md",
+                "file": "Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_keys.md",
+                "file": "Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_keys.md"
+                "file": "Math.md"
               }
             }
           },
@@ -181,9 +181,11 @@
   },
   "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
-    "_keys_backup.md",
-    "_keys.md",
+    "Finance/podcast.md",
     "Finance/banking.md",
+    "Finance/Lesson 1.md",
+    "_keys.md",
+    "_keys_backup.md",
     "Untitled.md",
     "Untitled",
     "Lakas.md",
@@ -192,8 +194,6 @@
     "Hannibal's Recipes.md",
     "Math.md",
     "Stoics.md",
-    "Finance/Lesson 1.md",
-    "Finance/podcast.md",
     "Finance/Lesson 2.md",
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
