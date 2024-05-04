@@ -11,12 +11,8 @@
             "id": "64108ca9c45dbc99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Martin Shkreli/banking.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martin Shkreli/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martin Shkreli/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Martin Shkreli/banking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,27 +160,28 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Lakas.md",
+    "Untitled.md",
+    "Martin Shkreli/banking.md",
+    "Martin Shkreli/Lesson 1.md",
     "Martin Shkreli/podcast.md",
+    "Martin Shkreli/Lesson 2.md",
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
-    "_keys_backup.md",
+    "Software/Rust.md",
     "_keys.md",
+    "_keys_backup.md",
     "Crypto.md",
     "Finance.md",
     "Hannibal's Recipes.md",
-    "Martin Shkreli/banking.md",
-    "Martin Shkreli/Lesson 2.md",
-    "Martin Shkreli/Lesson 1.md",
+    "Math.md",
+    "Stoics.md",
     "Latin/03 - Second declension nouns.md",
     "Latin/02 - First declension nouns.md",
     "Latin/01 - First conjugation verbs.md",
     "Martin Shkreli",
     "conflict-files-obsidian-git.md",
-    "Software/Rust.md",
-    "Stoics.md",
-    "Math.md",
-    "Untitled.md",
     "Software/Review.md",
     "Software/Linode.md",
     "Templates",
@@ -196,7 +189,6 @@
     "[Single.md",
     "[NEVER.md",
     "plan.md",
-    "French.md",
     "Pasted images/Pasted image 20221215103943.png",
     "Books/Metacognition inlanguage learning and teaching.pdf",
     "Books/FirstYearInLatin.pdf"
