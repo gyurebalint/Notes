@@ -44,5 +44,7 @@ Target rate: This is the rate the Fed wants banks to lend money to each other on
 
  gold standard: only thing the gold did was to put a little more confidence behind the bank notes (currency), however its just a precious metal. getting off of it means now the us government guarantees the value, the buying power behind the currency. It is a better guarantee since the government can tax people. Tax is just the price of using the economy.
 
-Federal funds rate: target rate that the fed wants banks lend money
-Discount rate: 
+Federal funds rate: target rate that the fed wants banks lend money to each other. Usually overnight loans.
+
+Discount window: a lender of last resort to the banks. a bank can go to the federal reserve and borrow directly from the fed. Usually when other banks are not willing to lend this bank money (loss of confidence). The bank has to offer some collateral for this loan.
+Discount rate: the interest rate with which a bank can get a loan from the fed. Discount rate > federal funds rate
