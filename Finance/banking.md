@@ -43,3 +43,6 @@ Target rate: This is the rate the Fed wants banks to lend money to each other on
  - it has to be elastic enough to serve the people with good projects (that benefit society) when they need that money
 
  gold standard: only thing the gold did was to put a little more confidence behind the bank notes (currency), however its just a precious metal. getting off of it means now the us government guarantees the value, the buying power behind the currency. It is a better guarantee since the government can tax people. Tax is just the price of using the economy.
+
+Federal funds rate: target rate that the fed wants banks lend money
+Discount rate: 

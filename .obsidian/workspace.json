@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math.md",
+                "file": "Finance/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math.md",
+                "file": "Finance/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math.md",
+                "file": "Finance/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math.md"
+                "file": "Finance/banking.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
+    "Math.md",
     "Finance/podcast.md",
     "Finance/banking.md",
     "Finance/Lesson 1.md",
@@ -192,7 +193,6 @@
     "Finance.md",
     "Crypto.md",
     "Hannibal's Recipes.md",
-    "Math.md",
     "Stoics.md",
     "Finance/Lesson 2.md",
     "Software/Authentication.md",
