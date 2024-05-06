@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lakas.md",
+                "file": "Finance/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lakas.md",
+                "file": "Finance/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lakas.md",
+                "file": "Finance/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lakas.md"
+                "file": "Finance/banking.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "cc62505fe63e47d8",
   "lastOpenFiles": [
+    "Lakas.md",
     "Finance/banking.md",
     "Math.md",
     "Finance/podcast.md",
@@ -189,7 +190,6 @@
     "_keys_backup.md",
     "Untitled.md",
     "Untitled",
-    "Lakas.md",
     "Finance.md",
     "Crypto.md",
     "Hannibal's Recipes.md",
