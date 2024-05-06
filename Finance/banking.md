@@ -48,3 +48,5 @@ Federal funds rate: target rate that the fed wants banks lend money to each othe
 
 Discount window: a lender of last resort to the banks. a bank can go to the federal reserve and borrow directly from the fed. Usually when other banks are not willing to lend this bank money (loss of confidence). The bank has to offer some collateral for this loan.
 Discount rate: the interest rate with which a bank can get a loan from the fed. Discount rate > federal funds rate
+
+[Federal Reserve - Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve)
