@@ -35,6 +35,8 @@ Konyha pult laminalt FALPANEL
 wc
 mosdokagylo
 csap
+- [SALJEN fürdőszobai csap/szűrő, fekete - IKEA](https://www.ikea.com/hu/hu/p/saljen-fuerdoszobai-csap-szuro-fekete-40385492/)
+- 
 zuhanykabin
 - [Black 80x80 cm szögletes fekete profilos zuhanykabin](https://stuxi.hu/Elio-Black-80x80-cm-szogletes-ket-toloajtos-zuhany) - 69 eFt
 - 
@@ -46,6 +48,7 @@ mosdokagylo szett
 - [ENHET alsószekrény mosdóhoz, 2 fiókkal, fehér, 60x42x60 cm - IKEA](https://www.ikea.com/hu/hu/p/enhet-alsoszekreny-mosdohoz-2-fiokkal-feher-s09322341/#content)
 - [TREASJÖN tükrösszekrény+1ajtó/beép.világít., 50x17x75 cm - IKEA](https://www.ikea.com/hu/hu/p/treasjoen-tuekroesszekreny-1ajto-beep-vilagit-50564445/)
 - [magasszekreny, dontheto szennyestartoval, 31x174x30 cm)](https://bonus-shop.hu/Drohmo-Nel-IV-furdoszoba-szekreny-feher)
+- [ÄNGSJÖN / BACKSJÖN mosdóállvány+fiókok/mosdó/csap, mfényű fehér/bambusz, 62x49x71 cm - IKEA](https://www.ikea.com/hu/hu/p/aengsjoen-backsjoen-mosdoallvany-fiokok-mosdo-csap-mfenyu-feher-bambusz-s89521049/)
 - 
 ##### Konyhagepek
 gazfozolap
