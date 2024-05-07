@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/podcast.md",
+                "file": "Finance/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/podcast.md",
+                "file": "Finance/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/podcast.md",
+                "file": "Finance/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/podcast.md"
+                "file": "Finance/banking.md"
               }
             }
           },
@@ -180,11 +180,11 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Finance/podcast.md",
     "_keys_backup.md",
     "Finance/banking.md",
     "Lakas.md",
     "Math.md",
-    "Finance/podcast.md",
     "Finance/Lesson 1.md",
     "_keys.md",
     "Untitled.md",

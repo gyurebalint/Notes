@@ -50,3 +50,4 @@ Discount window: a lender of last resort to the banks. a bank can go to the fede
 Discount rate: the interest rate with which a bank can get a loan from the fed. Discount rate > federal funds rate
 
 [Federal Reserve - Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve)
+
