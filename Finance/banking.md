@@ -50,3 +50,6 @@ Discount window: a lender of last resort to the banks. a bank can go to the fede
 Discount rate: the interest rate with which a bank can get a loan from the fed. Discount rate > federal funds rate
 
 [Federal Reserve - Wikipedia](https://en.wikipedia.org/wiki/Federal_Reserve)
+
+ repo/repurchase agreement: an agreement that I buy back the collateral I borrowed against. 
+ e.g.: a pawn shop transaction. At first, you get money for your pawn object (loan), than at a later date you buy back the object plus interest.
