@@ -22,6 +22,10 @@ csap szett - [Hongkong White 60 komplett fali fürdőszoba bútor szett feket (s
 praktiker szett - [SAVINI ZAFFIRO-N KOMPLETT FÜRDŐSZOBABÚTOR VILÁGOS SZÜRKE, (praktiker.hu)](https://www.praktiker.hu/furdoszoba/furdoszobabutor/komplett-furdoszobabutor/savini-zaffiro-n-kompl-fszbutor-vszurke-56-5x65x42-5cm52x73-5x12-5cm/p/320589)
 
 ## Essentials a felujitashoz/bekoltozeshez
+#### Ajtok
+kulteri - https://hisecajtok.hu/
+belteri - 
+
 ##### Jarolapok
 Megnezni a vizallosagat a laminalt padlonak, ha vizallo a konyhaba azt veszem
 Furdoszoba/wc jarolap
