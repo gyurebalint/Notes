@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/banking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b71ef95fae2646f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finance/banking.md",
+                "file": "_keys_backup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "_keys_backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "_keys_backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/banking.md"
+                "file": "_keys_backup.md"
               }
             }
           },
@@ -179,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b71ef95fae2646f6",
+  "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
-    "Mining.md",
-    "Finance/banking.md",
     "Lakas.md",
+    "_keys.md",
+    "Finance/banking.md",
+    "Mining.md",
     "conflict-files-obsidian-git.md",
     "Martin Shkreli/Lesson 1.md",
     "Finance/podcast.md",
@@ -198,7 +186,6 @@
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
     "_keys_backup.md",
-    "_keys.md",
     "Crypto.md",
     "Finance.md",
     "Hannibal's Recipes.md",
