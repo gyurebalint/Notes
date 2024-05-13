@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mining.md",
+                "file": "Finance/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mining.md",
+                "file": "Finance/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mining.md",
+                "file": "Finance/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mining.md"
+                "file": "Finance/banking.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "b71ef95fae2646f6",
   "lastOpenFiles": [
-    "Finance/banking.md",
     "Mining.md",
+    "Finance/banking.md",
     "Lakas.md",
     "conflict-files-obsidian-git.md",
     "Martin Shkreli/Lesson 1.md",
