@@ -53,3 +53,8 @@ Discount rate: the interest rate with which a bank can get a loan from the fed. 
 
  repo/repurchase agreement: an agreement that I buy back the collateral I borrowed against. 
  e.g.: a pawn shop transaction. At first, you get money for your pawn object (loan), than at a later date you buy back the object plus interest.
+
+Problem
+unstable environment because if there is one bad bank (meaning insolvent = gave out bad loans) that creates in-confidence in the banking system which results in people getting their money out of their banks, which makes good banks illiquid.
+How does the Federal reserve differentiates between a good and a bad bank?
+Federal reserve = lender of last reserve
