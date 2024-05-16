@@ -6,6 +6,9 @@ base frequency
 
 GPU
 
+PLEX Media server
+transcoding?
+can we watch movies at the same time on it?
 
 
 Kaspa
