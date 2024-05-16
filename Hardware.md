@@ -10,6 +10,7 @@ PLEX Media server
 transcoding?
 can we watch movies at the same time on it?
 
+ZimaBoard
 
 Kaspa
 https://wiki.kaspa.org/en/mining
