@@ -1,6 +1,7 @@
 Motherboard
 has to be intel compatible with an integrated graphics card. Have to check whether that graphics card supports transcoding
-
+check for a hd grapics 630 processor (buy it used) and see what kind of motherboard do I need.
+[source](https://www.youtube.com/watch?v=uShvhV2ZZCA)
 
 CPU
 for transcoding intel hd grapics 630
