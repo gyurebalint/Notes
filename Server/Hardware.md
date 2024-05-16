@@ -16,6 +16,9 @@ MiniTx is more efficient (one PCIe slot)
 - ASROCK B85M-ITX
 - ASUS H110-plus
 Fujitsu is good, power efficient.
+lower loads power supply is not efficient, so for this use PicoPSU is your idle is lower than 50W and load power is no more than 200W
+Hard drive: 5400 and 722 rpm drives. latter is faster. 5400 is cooler and quieter. choose this one. Spinning down a drive could save more watts.
+tiered cahing can make your rig faster. in UNRAID  you can set this up.
 
 Motherboard
 has to be intel compatible with an integrated graphics card. Have to check whether that graphics card supports transcoding
