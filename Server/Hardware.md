@@ -1,3 +1,9 @@
+Energy efficient setup
+Don't buy anything older than intel 4th gen cpu 
+idle watts matter
+use 6th or 7th gen cpu
+intel vs amd: intel is more budget
+
 Motherboard
 has to be intel compatible with an integrated graphics card. Have to check whether that graphics card supports transcoding
 check for a hd grapics 630 processor (buy it used) and see what kind of motherboard do I need.
