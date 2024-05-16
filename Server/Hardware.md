@@ -3,7 +3,20 @@ Don't buy anything older than intel 4th gen cpu
 idle watts matter
 use 6th or 7th gen cpu
 intel vs amd: intel is more budget
+dont pay more for T type cpu s for power savings
+idle power matters the most, not a lot of website publicate this.
+[one website that does](https://www.hardwareluxx.de/)
 
+MiniTx is more efficient (one PCIe slot)
+- Fujitsu D3417-B11 (MATX)
+- Gigabyte C246N-WU2
+- MSI Z1701 Gaming pro ac
+- asrock H510M-HVS r2.0
+- asrock H410M-HVS r2.0
+- ASROCK B85M-ITX
+- ASUS H110-plus
+
+PCIe slot: used for extension. lets you plug in peripherals such as graphics card, NVMe s, net
 Motherboard
 has to be intel compatible with an integrated graphics card. Have to check whether that graphics card supports transcoding
 check for a hd grapics 630 processor (buy it used) and see what kind of motherboard do I need.
