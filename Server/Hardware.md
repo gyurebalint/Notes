@@ -15,8 +15,8 @@ MiniTx is more efficient (one PCIe slot)
 - asrock H410M-HVS r2.0
 - ASROCK B85M-ITX
 - ASUS H110-plus
+Fujitsu is good, power efficient.
 
-PCIe slot: used for extension. lets you plug in peripherals such as graphics card, NVMe s, net
 Motherboard
 has to be intel compatible with an integrated graphics card. Have to check whether that graphics card supports transcoding
 check for a hd grapics 630 processor (buy it used) and see what kind of motherboard do I need.
