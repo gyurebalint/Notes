@@ -1,4 +1,6 @@
 CPU
+for transcoding intel hd grapics 630
+
 cores
 threads
 turbo speed

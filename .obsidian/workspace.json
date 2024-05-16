@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Remote Access.md",
+                "file": "Server/Hardware.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Remote Access.md",
+                "file": "Server/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/Remote Access.md",
+                "file": "Server/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/Remote Access.md"
+                "file": "Server/Hardware.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "cecd2170db8c24f3",
   "lastOpenFiles": [
-    "Server/Hardware.md",
     "Server/Remote Access.md",
+    "Server/Hardware.md",
     "Server",
     "Finance/banking.md",
     "Stoics.md",
