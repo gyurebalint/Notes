@@ -31,6 +31,11 @@ has to be intel compatible with an integrated graphics card. Have to check wheth
 check for a hd grapics 630 processor (buy it used) and see what kind of motherboard do I need.
 [source](https://www.youtube.com/watch?v=uShvhV2ZZCA)
 
+"J4105 has an intel 600 series igpu. It supports 4k hevc transcoding. I am sure it can do 3 1080p h264 transcodes on the fly. I used the j3455 cpu and i could do 2 1080p transcodes on the fly. Go with it, it is a great motherboard. I had to let it go because i wanted to have a vm with router, requireing 2 nics."
+
+
+
+
 CPU
 for transcoding intel hd grapics 630
 cable lake chip
