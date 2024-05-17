@@ -24,7 +24,7 @@ tiered caching can make your rig faster. in UNRAID  you can set this up.
 the processesor has to have this.
 Zima board has Intel processor, so this could be used for media server and another separate machine as a NAS.
 remote access : https://tailscale.com/,  https://www.zerotier.com/
-
+hyperwiser?
 
 Motherboard
 has to be intel compatible with an integrated graphics card. Have to check whether that graphics card supports transcoding
