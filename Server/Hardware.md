@@ -58,4 +58,6 @@ https://www.youtube.com/watch?v=4F5P_BZKkuw
 https://szamoldki.hu/hu/kalkulator/lakossagi-aramfogyasztas-kalkulator
 https://www.minersblog.com/kaspa/
 
-Hey Markus, I am thinking abo
+Hey Markus, I am thinking about creating a home server for me and my family. I want to have a large filestorage so we wont have to pay for 3rd party cloud storage, also I want to run a multi media server on it to.
+I looked into a lot of stuff already but I want to pick your brain about the subject.
+do you have a couple of minutes to talk about sth like this, maybe even in internal huddle?
