@@ -62,4 +62,7 @@ Federal reserve = lender of last reserve
 bank run: 
 - enough for one bad actor (bank) to ruin the whole system
 - enough one large withdrawal without a bad actor to ruin the system
-Fixes: a lender of last resort - Federal Reserve Bank
+Fixes: 
+- a lender of last resort - Federal Reserve Bank
+- deposit insurance - Federal Deposit Insurance Corp - if our bank goes bust the FED will cover your liabilities. If there are multiple banks and all of them are FDIC proofed equally and all the people leave their money/deposits with the highest interest one then all the money again goes to the highest interest bank and we know high interest in a bank equals high risk taking. 
+	- this is a really cheap insurance
