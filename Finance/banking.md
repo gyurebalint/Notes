@@ -66,3 +66,8 @@ Fixes:
 - a lender of last resort - Federal Reserve Bank
 - deposit insurance - Federal Deposit Insurance Corp - if our bank goes bust the FED will cover your liabilities. If there are multiple banks and all of them are FDIC proofed equally and all the people leave their money/deposits with the highest interest one then all the money again goes to the highest interest bank and we know high interest in a bank equals high risk taking. 
 	- this is a really cheap insurance, encourages risk-taking
+If you need the government is it even capitalism?
+Banks are just arbitraging the yield curve with cheap insurance.
+![[yield_curve.png]]
+If you lend money to some entities, such as government, Berkshire-Hathaway for example, for the short term you are going to get less of a return than on long term. Now, banks can borrow very cheaply because they don't even pay interest on this for us and if all else fails they are bailed out with FDIC insurance. they still can invest in these high risk, high return assets such as stock and keep the difference as profits since we are not using only 10% of our money and they can invest the rest. 
+Any other mechanism like this can survive without government regulation and involvement, such as private equity firms where you have to lock up your money for some time and know the risk. 
