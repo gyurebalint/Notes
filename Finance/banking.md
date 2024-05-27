@@ -58,3 +58,8 @@ Problem
 unstable environment because if there is one bad bank (meaning insolvent = gave out bad loans) that creates in-confidence in the banking system which results in people getting their money out of their banks, which makes good banks illiquid.
 How does the Federal reserve differentiates between a good and a bad bank?
 Federal reserve = lender of last reserve
+
+bank run: 
+- enough for one bad actor (bank) to ruin the whole system
+- enough one large withdrawal without a bad actor to ruin the system
+Fixes: a lender of last resort - Federal Reserve Bank
