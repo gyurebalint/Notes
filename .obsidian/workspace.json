@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "Software/Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "Software/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "Software/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/banking.md"
+                "file": "Software/Authentication.md"
               }
             }
           },
@@ -181,34 +181,35 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
-    "Finance/yield_curve.png",
-    "Finance/banking.md",
-    "Server/Hardware.md",
-    "Server/Remote Access.md",
-    "Server/Foreign words.md",
-    "Server",
+    "Software/DOT NET Memory Alloc.md",
+    "Software/Golang.md",
+    "Software/Rust.md",
+    "Lakas.md",
+    "Math.md",
     "Stoics.md",
     "Untitled.md",
-    "Lakas.md",
+    "Finance/banking.md",
+    "Finance/Lesson 1.md",
+    "Finance/Lesson 2.md",
+    "Finance/podcast.md",
+    "Finance/yield_curve.png",
+    "Server/Foreign words.md",
+    "Server/Hardware.md",
+    "Server/Remote Access.md",
+    "Server",
     "conflict-files-obsidian-git.md",
     "Martin Shkreli/Lesson 1.md",
-    "Finance/podcast.md",
-    "Finance/Lesson 2.md",
-    "Finance/Lesson 1.md",
     "Finance",
     "Martin Shkreli/Lesson 2.md",
     "Martin Shkreli/podcast.md",
     "Martin Shkreli/banking.md",
     "Software/Authentication.md",
-    "Software/DOT NET Memory Alloc.md",
-    "Software/Golang.md",
     "_keys_backup.md",
     "_keys.md",
     "Crypto.md",
     "Finance.md",
     "Hannibal's Recipes.md",
     "Latin/03 - Second declension nouns.md",
-    "Latin/02 - First declension nouns.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
