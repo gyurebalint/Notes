@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/atomic notes/share repurchase program.md",
+                "file": "Finance/atomic notes/capital structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/atomic notes/share repurchase program.md",
+                "file": "Finance/atomic notes/capital structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/atomic notes/share repurchase program.md",
+                "file": "Finance/atomic notes/capital structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/atomic notes/share repurchase program.md"
+                "file": "Finance/atomic notes/capital structure.md"
               }
             }
           },
@@ -181,12 +181,13 @@
   },
   "active": "e6de961345ddb03b",
   "lastOpenFiles": [
+    "Finance/atomic notes/share repurchase program.md",
+    "Finance/atomic notes/capital structure.md",
     "Server/Foreign words.md",
     "Finance/banking.md",
     "Finance/Lesson 1.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
-    "Finance/atomic notes/share repurchase program.md",
     "Finance/atomic notes",
     "[[Foreign.md",
     "Server/Hardware.md",
@@ -210,7 +211,6 @@
     "Software/Golang.md",
     "Crypto.md",
     "Finance.md",
-    "Hannibal's Recipes.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
