@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Hardware.md",
+                "file": "Finance/banking.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Hardware.md",
+                "file": "Finance/banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/Hardware.md",
+                "file": "Finance/banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/Hardware.md"
+                "file": "Finance/banking.md"
               }
             }
           },
@@ -168,24 +168,26 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
-    "Finance/yield_curve.png",
-    "_keys.md",
+    "[[Foreign.md",
+    "Finance/banking.md",
+    "Server/Foreign words.md",
+    "Finance/podcast.md",
     "Server/Hardware.md",
     "Server/Remote Access.md",
-    "Server/Foreign words.md",
-    "Server",
+    "_keys.md",
     "_keys_backup.md",
     "Lakas.md",
-    "Finance/banking.md",
+    "Math.md",
+    "Finance/yield_curve.png",
+    "Untitled.md",
+    "Finance/Lesson 2.md",
+    "Finance/Lesson 1.md",
+    "Server",
     "Mining.md",
     "conflict-files-obsidian-git.md",
     "Martin Shkreli/Lesson 1.md",
-    "Finance/podcast.md",
-    "Finance/Lesson 2.md",
-    "Finance/Lesson 1.md",
     "Finance",
     "Martin Shkreli/Lesson 2.md",
-    "Untitled.md",
     "Martin Shkreli/podcast.md",
     "Martin Shkreli/banking.md",
     "Software/Authentication.md",
@@ -195,7 +197,6 @@
     "Finance.md",
     "Hannibal's Recipes.md",
     "Latin/03 - Second declension nouns.md",
-    "Latin/02 - First declension nouns.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
