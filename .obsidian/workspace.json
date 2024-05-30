@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "Finance/Lesson 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6de961345ddb03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/atomic notes/share repurchase program.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "Finance/atomic notes/share repurchase program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/banking.md",
+                "file": "Finance/atomic notes/share repurchase program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/banking.md"
+                "file": "Finance/atomic notes/share repurchase program.md"
               }
             }
           },
@@ -166,12 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64108ca9c45dbc99",
+  "active": "e6de961345ddb03b",
   "lastOpenFiles": [
-    "[[Foreign.md",
-    "Finance/banking.md",
     "Server/Foreign words.md",
+    "Finance/banking.md",
+    "Finance/Lesson 1.md",
+    "Finance/Lesson 2.md",
     "Finance/podcast.md",
+    "Finance/atomic notes/share repurchase program.md",
+    "Finance/atomic notes",
+    "[[Foreign.md",
     "Server/Hardware.md",
     "Server/Remote Access.md",
     "_keys.md",
@@ -180,8 +197,6 @@
     "Math.md",
     "Finance/yield_curve.png",
     "Untitled.md",
-    "Finance/Lesson 2.md",
-    "Finance/Lesson 1.md",
     "Server",
     "Mining.md",
     "conflict-files-obsidian-git.md",
@@ -196,7 +211,6 @@
     "Crypto.md",
     "Finance.md",
     "Hannibal's Recipes.md",
-    "Latin/03 - Second declension nouns.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
