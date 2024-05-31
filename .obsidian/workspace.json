@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b68a4aa1ae8dd584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lakas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "079c6c1a2514b157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lakas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cd48ab8cd41db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Authentication.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Authentication.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Authentication.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -179,12 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64108ca9c45dbc99",
+  "active": "73cd48ab8cd41db6",
   "lastOpenFiles": [
+    "Lakas.md",
+    "conflict-files-obsidian-git.md",
+    "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
     "Software/Rust.md",
-    "Lakas.md",
     "Math.md",
     "Stoics.md",
     "Untitled.md",
@@ -197,13 +235,11 @@
     "Server/Hardware.md",
     "Server/Remote Access.md",
     "Server",
-    "conflict-files-obsidian-git.md",
     "Martin Shkreli/Lesson 1.md",
     "Finance",
     "Martin Shkreli/Lesson 2.md",
     "Martin Shkreli/podcast.md",
     "Martin Shkreli/banking.md",
-    "Software/Authentication.md",
     "_keys_backup.md",
     "_keys.md",
     "Crypto.md",
