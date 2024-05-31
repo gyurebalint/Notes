@@ -59,9 +59,11 @@
             "id": "73cd48ab8cd41db6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Finance/yield_curve.png"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/yield_curve.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/yield_curve.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/yield_curve.png"
+                "file": "Untitled.md"
               }
             }
           },
@@ -215,8 +217,11 @@
   },
   "active": "73cd48ab8cd41db6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Finance/atomic notes/share repurchase program.md",
+    "Untitled.md",
+    "Stoics.md",
+    "Finance/yield_curve.png",
+    "conflict-files-obsidian-git.md",
     "Finance/atomic notes/capital structure.md",
     "Finance/atomic notes",
     "Lakas.md",
@@ -225,13 +230,10 @@
     "Software/Golang.md",
     "Software/Rust.md",
     "Math.md",
-    "Stoics.md",
-    "Untitled.md",
     "Finance/banking.md",
     "Finance/Lesson 1.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
-    "Finance/yield_curve.png",
     "Server/Foreign words.md",
     "Server/Hardware.md",
     "Server/Remote Access.md",
@@ -244,7 +246,6 @@
     "_keys_backup.md",
     "_keys.md",
     "Crypto.md",
-    "Finance.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
