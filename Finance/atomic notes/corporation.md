@@ -1,4 +1,5 @@
 A corporation is a legal entity, a person. Cannot vote, the shareholders own it but it is legally distinct. The shareholders have limited liability which means they cannot be held responsible for the entity's debts.
+
 It can take on debt, sue or be sued, borrow or lend money, merge or takeover another company.
 Can be closely held, or if it wants to raise capital it can issue more share and be a public corporation.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Lesson 1.md",
+                "file": "Finance/atomic notes/corporation.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,16 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6de961345ddb03b",
+  "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Finance/banking.md",
+    "Finance/Lesson 1.md",
+    "Finance/atomic notes/corporation.md",
     "Finance/atomic notes/capital structure.md",
     "Server/Foreign words.md",
-    "Finance/atomic notes/corporation.md",
     "Lakas.md",
     "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/share repurchase program.md",
-    "Finance/banking.md",
-    "Finance/Lesson 1.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
     "Finance/atomic notes",
