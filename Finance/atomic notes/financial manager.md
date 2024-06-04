@@ -1,0 +1,1 @@
+On the one hand, the financial manager helps manage the firm’s operations, particularly by helping to make good investment decisions. On the other hand, the financial manager deals with investors—not just with shareholders but also with financial institutions such as banks and with financial markets such as the New York Stock Exchange.

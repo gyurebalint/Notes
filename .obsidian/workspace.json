@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/atomic notes/corporation.md",
+                "file": "Finance/atomic notes/financial manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/atomic notes/corporation.md",
+                "file": "Finance/atomic notes/financial manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/atomic notes/corporation.md",
+                "file": "Finance/atomic notes/financial manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/atomic notes/corporation.md"
+                "file": "Finance/atomic notes/financial manager.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Finance/atomic notes/corporation.md",
+    "Finance/atomic notes/financial manager.md",
     "Finance/banking.md",
     "Finance/Lesson 1.md",
-    "Finance/atomic notes/corporation.md",
     "Finance/atomic notes/capital structure.md",
     "Server/Foreign words.md",
     "Lakas.md",
@@ -198,7 +199,6 @@
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
     "Software/Golang.md",
-    "Crypto.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
