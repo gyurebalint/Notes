@@ -11,9 +11,11 @@
             "id": "64108ca9c45dbc99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
+                "file": "Finance/atomic notes/capital structure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
+                "file": "Finance/atomic notes/capital structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
+                "file": "Finance/atomic notes/capital structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
+                "file": "Finance/atomic notes/capital structure.md"
               }
             }
           },
@@ -166,15 +168,15 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Finance/banking.md",
+    "Finance/atomic notes/share repurchase program.md",
+    "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/financial manager.md",
     "Finance/atomic notes/corporation.md",
-    "Finance/banking.md",
     "Finance/Lesson 1.md",
     "Finance/atomic notes/capital structure.md",
     "Server/Foreign words.md",
     "Lakas.md",
-    "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
-    "Finance/atomic notes/share repurchase program.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
     "Finance/atomic notes",
@@ -196,7 +198,6 @@
     "Martin Shkreli/banking.md",
     "Software/Authentication.md",
     "Software/DOT NET Memory Alloc.md",
-    "Software/Golang.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
