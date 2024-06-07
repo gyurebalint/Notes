@@ -16,8 +16,21 @@
                 "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf"
               }
             }
+          },
+          {
+            "id": "9f746d1d45fc914e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64108ca9c45dbc99",
+  "active": "9f746d1d45fc914e",
   "lastOpenFiles": [
-    "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+    "conflict-files-obsidian-git.md",
+    "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/yield_curve.png",
     "Finance/atomic notes/share repurchase program.md",
     "Finance/atomic notes/capital structure.md",
@@ -189,7 +203,6 @@
     "Untitled.md",
     "Server",
     "Mining.md",
-    "conflict-files-obsidian-git.md",
     "Martin Shkreli/Lesson 1.md",
     "Finance",
     "Martin Shkreli/Lesson 2.md",
