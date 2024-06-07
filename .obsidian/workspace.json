@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b1f52e44d93608",
+        "id": "b81929812333fc0b",
         "type": "tabs",
         "children": [
           {
-            "id": "c39747be11c81ea1",
+            "id": "664e650a04d022d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -158,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c39747be11c81ea1",
+  "active": "664e650a04d022d1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Finance/Lesson 2.md",
     "Finance/yield_curve.png",
     "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
@@ -174,7 +183,6 @@
     "Software/Rust.md",
     "Untitled.md",
     "Stoics.md",
-    "conflict-files-obsidian-git.md",
     "Finance/atomic notes",
     "Lakas.md",
     "Software/Authentication.md",
