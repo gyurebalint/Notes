@@ -16,8 +16,19 @@
                 "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
               }
             }
+          },
+          {
+            "id": "7255fa54fdf12afe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64108ca9c45dbc99",
+  "active": "7255fa54fdf12afe",
   "lastOpenFiles": [
     "Finance/atomic notes/share repurchase program.md",
     "conflict-files-obsidian-git.md",
