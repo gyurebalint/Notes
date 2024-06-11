@@ -11,9 +11,11 @@
             "id": "64108ca9c45dbc99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf"
+                "file": "Software/Rust.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+                "file": "Software/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+                "file": "Software/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf"
+                "file": "Software/Rust.md"
               }
             }
           },
@@ -166,13 +168,15 @@
   },
   "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Latin/01 - First conjugation verbs.md",
+    "Latin/02 - First declension nouns.md",
+    "Finance/yield_curve.png",
+    "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
     "Finance/atomic notes/financial manager.md",
     "Server/Foreign words.md",
-    "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
     "Finance/atomic notes/share repurchase program.md",
     "conflict-files-obsidian-git.md",
     "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
-    "Finance/yield_curve.png",
     "Finance/atomic notes/capital structure.md",
     "Finance/banking.md",
     "Finance/atomic notes/corporation.md",
@@ -196,7 +200,6 @@
     "Martin Shkreli/podcast.md",
     "Martin Shkreli/banking.md",
     "Software/Authentication.md",
-    "Software/DOT NET Memory Alloc.md",
     "Martin Shkreli",
     "Templates",
     "Notes",
