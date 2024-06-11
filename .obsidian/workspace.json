@@ -13,22 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "7255fa54fdf12afe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
+                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
+                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
+                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
+                "file": "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf"
               }
             }
           },
@@ -175,19 +164,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7255fa54fdf12afe",
+  "active": "64108ca9c45dbc99",
   "lastOpenFiles": [
+    "Finance/atomic notes/financial manager.md",
+    "Server/Foreign words.md",
+    "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
     "Finance/atomic notes/share repurchase program.md",
     "conflict-files-obsidian-git.md",
-    "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
     "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/yield_curve.png",
     "Finance/atomic notes/capital structure.md",
     "Finance/banking.md",
-    "Finance/atomic notes/financial manager.md",
     "Finance/atomic notes/corporation.md",
     "Finance/Lesson 1.md",
-    "Server/Foreign words.md",
     "Lakas.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
