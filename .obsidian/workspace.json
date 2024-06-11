@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
+                "file": "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
               }
             }
           },
@@ -21,9 +21,11 @@
             "id": "7255fa54fdf12afe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Software/Rust/Rust.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
+                "file": "Software/Rust/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
+                "file": "Software/Rust/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
+                "file": "Software/Rust/Rust.md"
               }
             }
           },
@@ -175,12 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7255fa54fdf12afe",
+  "active": "7e84cdf8eeb2b495",
   "lastOpenFiles": [
+    "Software/Go",
+    "Software/Rust",
+    "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/share repurchase program.md",
     "conflict-files-obsidian-git.md",
     "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
-    "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/yield_curve.png",
     "Finance/atomic notes/capital structure.md",
     "Finance/banking.md",
@@ -212,7 +216,6 @@
     "Templates",
     "Notes",
     "Pasted images/Pasted image 20221215103943.png",
-    "Books/Metacognition inlanguage learning and teaching.pdf",
-    "Books/FirstYearInLatin.pdf"
+    "Books/Metacognition inlanguage learning and teaching.pdf"
   ]
 }
