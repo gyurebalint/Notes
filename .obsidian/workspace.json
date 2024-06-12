@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e56c8305e666bd2c",
+        "id": "09dadb0790d4c7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "64108ca9c45dbc99",
+            "id": "0b91eb4e80f11282",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "7255fa54fdf12afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Rust/Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3be612d852689434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03637d846058cea2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,14 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03637d846058cea2",
+  "active": "0b91eb4e80f11282",
   "lastOpenFiles": [
+    "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Software/Rust/Rust.md",
     "conflict-files-obsidian-git.md",
     "Software/Go/Network Automation with Go.pdf",
     "Software/Go",
     "Software/Rust",
-    "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/share repurchase program.md",
     "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
     "Finance/yield_curve.png",
