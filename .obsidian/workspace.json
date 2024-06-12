@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03637d846058cea2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3be612d852689434",
+  "active": "03637d846058cea2",
   "lastOpenFiles": [
     "Software/Rust/Rust.md",
     "conflict-files-obsidian-git.md",
