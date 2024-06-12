@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09dadb0790d4c7e3",
+        "id": "e56c8305e666bd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "0b91eb4e80f11282",
+            "id": "03637d846058cea2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Software/Go/Network Automation with Go.pdf"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software/Go/Network Automation with Go.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software/Go/Network Automation with Go.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software/Go/Network Automation with Go.pdf"
+              }
             }
           },
           {
@@ -158,23 +164,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b91eb4e80f11282",
+  "active": "03637d846058cea2",
   "lastOpenFiles": [
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Software/Rust/Rust.md",
-    "conflict-files-obsidian-git.md",
-    "Software/Go/Network Automation with Go.pdf",
-    "Software/Go",
     "Software/Rust",
-    "Finance/atomic notes/share repurchase program.md",
-    "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+    "Software/Go/Network Automation with Go.pdf",
+    "Software/Go/Golang.md",
+    "Software/Go",
+    "Software/Rust.md",
+    "Latin/01 - First conjugation verbs.md",
+    "Latin/02 - First declension nouns.md",
     "Finance/yield_curve.png",
+    "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
+    "Finance/atomic notes/financial manager.md",
+    "Server/Foreign words.md",
+    "Finance/atomic notes/share repurchase program.md",
+    "conflict-files-obsidian-git.md",
+    "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/capital structure.md",
     "Finance/banking.md",
-    "Finance/atomic notes/financial manager.md",
     "Finance/atomic notes/corporation.md",
     "Finance/Lesson 1.md",
-    "Server/Foreign words.md",
     "Lakas.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
@@ -190,10 +201,6 @@
     "Mining.md",
     "Martin Shkreli/Lesson 1.md",
     "Finance",
-    "Martin Shkreli/Lesson 2.md",
-    "Martin Shkreli/podcast.md",
-    "Martin Shkreli/banking.md",
-    "Software/Authentication.md",
     "Martin Shkreli",
     "Templates",
     "Pasted images/Pasted image 20221215103943.png"
