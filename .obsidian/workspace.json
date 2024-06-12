@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3be612d852689434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Rust/Rust.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Rust/Rust.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Rust/Rust.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,13 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e84cdf8eeb2b495",
+  "active": "3be612d852689434",
   "lastOpenFiles": [
+    "Software/Rust/Rust.md",
+    "conflict-files-obsidian-git.md",
+    "Software/Go/Network Automation with Go.pdf",
     "Software/Go",
     "Software/Rust",
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/share repurchase program.md",
-    "conflict-files-obsidian-git.md",
     "Finance/Principles of Corporate Finance - Allen, Franklin_Brealey, Richard A._Myers, Stewart C.pdf",
     "Finance/yield_curve.png",
     "Finance/atomic notes/capital structure.md",
@@ -211,11 +225,8 @@
     "Martin Shkreli/podcast.md",
     "Martin Shkreli/banking.md",
     "Software/Authentication.md",
-    "Software/DOT NET Memory Alloc.md",
     "Martin Shkreli",
     "Templates",
-    "Notes",
-    "Pasted images/Pasted image 20221215103943.png",
-    "Books/Metacognition inlanguage learning and teaching.pdf"
+    "Pasted images/Pasted image 20221215103943.png"
   ]
 }

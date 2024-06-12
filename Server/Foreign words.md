@@ -6,3 +6,4 @@ To help deliver a high-bandwidth, low-latency user experience, the NVMe protocol
 The NVMe specification takes advantage of nonvolatile memory in all kinds of computing environments. And it’s future-proof, extendable to work with not-yet-invented persistent memory technologies.
 
 permanence: the state or quality of lasting or remaining unchanged indefinitely.
+opprobrium: harsh criticism or censure.
