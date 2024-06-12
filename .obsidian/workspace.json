@@ -16,8 +16,19 @@
                 "file": "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf"
               }
             }
+          },
+          {
+            "id": "03637d846058cea2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64108ca9c45dbc99",
+  "active": "03637d846058cea2",
   "lastOpenFiles": [
     "Software/Rust.md",
     "Latin/01 - First conjugation verbs.md",
