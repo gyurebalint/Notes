@@ -11,9 +11,11 @@
             "id": "03637d846058cea2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Software/Go/Network Automation with Go.pdf"
+                "file": "Lakas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Go/Network Automation with Go.pdf",
+                "file": "Lakas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Go/Network Automation with Go.pdf",
+                "file": "Lakas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Go/Network Automation with Go.pdf"
+                "file": "Lakas.md"
               }
             }
           },
@@ -166,10 +168,10 @@
   },
   "active": "03637d846058cea2",
   "lastOpenFiles": [
+    "Software/Go/Network Automation with Go.pdf",
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Software/Rust/Rust.md",
     "Software/Rust",
-    "Software/Go/Network Automation with Go.pdf",
     "Software/Go/Golang.md",
     "Software/Go",
     "Software/Rust.md",
