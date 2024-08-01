@@ -11,28 +11,13 @@
             "id": "03637d846058cea2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lakas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28bba919c69eb196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_keys.md",
-                "mode": "source",
-                "source": false
+                "file": "Software/Go/Network Automation with Go.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_keys.md",
+                "file": "Software/Go/Network Automation with Go.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_keys.md",
+                "file": "Software/Go/Network Automation with Go.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_keys.md"
+                "file": "Software/Go/Network Automation with Go.pdf"
               }
             }
           },
@@ -179,13 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28bba919c69eb196",
+  "active": "03637d846058cea2",
   "lastOpenFiles": [
+    "Software/Go/Golang.md",
     "Software/Go/Network Automation with Go.pdf",
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Software/Rust/Rust.md",
     "Software/Rust",
-    "Software/Go/Golang.md",
     "Software/Go",
     "Software/Rust.md",
     "Latin/01 - First conjugation verbs.md",
@@ -217,7 +202,6 @@
     "Martin Shkreli/Lesson 1.md",
     "Finance",
     "Martin Shkreli",
-    "Templates",
     "Pasted images/Pasted image 20221215103943.png"
   ]
 }
