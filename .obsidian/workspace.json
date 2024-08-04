@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c75d7230d02eaab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28bba919c69eb196",
+  "active": "2c75d7230d02eaab",
   "lastOpenFiles": [
     "Software/Go/Network Automation with Go.pdf",
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
