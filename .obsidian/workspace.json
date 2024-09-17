@@ -16,8 +16,19 @@
                 "file": "Software/Go/Network Automation with Go.pdf"
               }
             }
+          },
+          {
+            "id": "0dccb7d4c296d4fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03637d846058cea2",
+  "active": "0dccb7d4c296d4fa",
   "lastOpenFiles": [
     "Software/Go/Golang.md",
     "Software/Go/Network Automation with Go.pdf",
