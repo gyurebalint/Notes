@@ -16,7 +16,9 @@
                 "file": "Lakas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lakas"
             }
           },
           {
@@ -28,21 +30,81 @@
                 "file": "_keys.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "_keys"
             }
           },
           {
             "id": "2c75d7230d02eaab",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_keys"
+            }
+          },
+          {
+            "id": "782f57285c457cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_keys"
+            }
+          },
+          {
+            "id": "6d02f6c41f469444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_keys_backup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_keys_backup"
+            }
+          },
+          {
+            "id": "334f800476cd377b",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.7"
-              }
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "42570094802234d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -62,7 +124,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -77,7 +141,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -85,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -93,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -116,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_keys.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +194,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -133,10 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_keys.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -147,7 +221,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -156,8 +232,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_keys.md"
-              }
+                "file": "conflict-files-obsidian-git.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -169,7 +247,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -189,8 +269,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c75d7230d02eaab",
+  "active": "42570094802234d5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "_keys.md",
     "Software/Go/Network Automation with Go.pdf",
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Software/Rust/Rust.md",
@@ -205,7 +287,6 @@
     "Finance/atomic notes/financial manager.md",
     "Server/Foreign words.md",
     "Finance/atomic notes/share repurchase program.md",
-    "conflict-files-obsidian-git.md",
     "Software/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
     "Finance/atomic notes/capital structure.md",
     "Finance/banking.md",
@@ -218,7 +299,6 @@
     "[[Foreign.md",
     "Server/Hardware.md",
     "Server/Remote Access.md",
-    "_keys.md",
     "_keys_backup.md",
     "Math.md",
     "Untitled.md",
@@ -227,7 +307,6 @@
     "Martin Shkreli/Lesson 1.md",
     "Finance",
     "Martin Shkreli",
-    "Templates",
     "Pasted images/Pasted image 20221215103943.png"
   ]
 }
