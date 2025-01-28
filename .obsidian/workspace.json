@@ -102,6 +102,16 @@
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
             }
+          },
+          {
+            "id": "0dccb7d4c296d4fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
         "currentTab": 6
@@ -269,7 +279,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42570094802234d5",
+  "active": "0dccb7d4c296d4fa",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_keys.md",
