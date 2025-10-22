@@ -95,12 +95,14 @@
             "id": "f87cb4171941dac4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "_keys.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "_keys"
             }
           }
         ],
@@ -273,6 +275,8 @@
   },
   "active": "f87cb4171941dac4",
   "lastOpenFiles": [
+    "_keys_backup.md",
+    "_keys.md",
     "Finance/Lesson 1.md",
     "Finance/Lesson 2.md",
     "Finance/podcast.md",
@@ -289,12 +293,10 @@
     "Server/Remote Access.md",
     "Server/Hardware.md",
     "Server/Foreign words.md",
-    "_keys.md",
     "Untitled.md",
     "Stoics.md",
     "Math.md",
     "Lakas.md",
-    "_keys_backup.md",
     "conflict-files-obsidian-git.md",
     "Software/Go/Network Automation with Go.pdf",
     "Software/Rust/Steve Klabnik, Carol Nichols - The Rust Programming Language (2018, No Starch Press) - libgen.li.pdf",
